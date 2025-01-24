@@ -220,3 +220,8 @@ To use the model, open `main.ipynb` and follow the steps outlined in the noteboo
 
 ## Contributing Guidelines
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Ensure that your code adheres to the project's coding standards.
+
+##Further improvements
+- In case of training and testing Machine Learning models its always better to use tools that can help us effectively track different experiments that could improve our         models. In the future we will definitely consider using tools such as `MLFlow`, to help us with exactly that.
+- We used `GradCAM` as a attempt to interpret decisions made by CNN that we can say was in some way successful. There are similiar techniques of Class activation mapping and 
+  it would be interesting to showcase them and compare but unfortunately we didn't manage.  
